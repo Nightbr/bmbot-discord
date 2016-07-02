@@ -1,0 +1,24 @@
+{
+  "name": "bmbot-discord",
+  "version": "1.0.0",
+  "description": "Bonjour Madame discord bot",
+  "main": "bmbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nightbr/bmbot-discord.git"
+  },
+  "keywords": [
+    "bonjourMadame",
+    "discord",
+    "bot"
+  ],
+  "author": "Nightbringer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nightbr/bmbot-discord/issues"
+  },
+  "homepage": "https://github.com/Nightbr/bmbot-discord"
+}
